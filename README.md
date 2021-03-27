@@ -1,5 +1,5 @@
-# Template_PHP_MySQL_Nginx
-PHP, MySQL, Nginxのテンプレート
+# PHPチュートリアル
+PHPの簡易チュートリアル
 
 ## 起動
 
@@ -13,4 +13,4 @@ docker-compose up -d
 
 ## 参考
 
-- [Qiita:DockerによるPHP開発環境構築（PHP + MySQL + Nginx）](https://qiita.com/nemui_/items/f911be7ffa4f29293fd5)
+- [PHP:簡易チュートリアル](https://www.php.net/manual/ja/tutorial.php)

@@ -2,12 +2,10 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Example</title>
+    <title>Index</title>
   </head>
   <body>
-    <?php
-      echo "Hi, I'm a PHP script!";
-      echo phpinfo();
-    ?>
+    <h1>PHP 簡易チュートリアル</h1>
+    <a href=./002_pracitical_example.php>実用的な例</a><br>
   </body>
 </html>
